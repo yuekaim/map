@@ -1,0 +1,130 @@
+body {
+    background-color: blue;
+}
+
+#lamp_bg {
+    background-color: orangered;
+}
+
+div {
+    font-family: 'Fondamento', cursive;
+    font-size: 20px;
+}
+
+body,a,.pre_txt {
+    font-family: 'Fondamento', cursive;
+    color:aliceblue;
+    font-size: 20px;
+}
+
+#door {
+    position:absolute;
+    left: 70%;
+    top: 30%;
+}
+
+#door1 {
+    position:absolute;
+    left: 65%;
+    top: 90%;
+}
+
+#plant1 {
+    position:absolute;
+    left: 10%;
+    top: 30%;
+}
+
+#plant2 {
+    position:absolute;
+    left: 20%;
+    top: 40%;
+}
+
+#plant3 {
+    position:absolute;
+    left: 15%;
+    top: 45%;
+}
+
+#table1 {
+    position:absolute;
+    left: 40%;
+    top: 35%;
+}
+
+#stairs {
+    position:absolute;
+    left: 65%;
+    top: 60%;
+}
+
+#stairs1 {
+    position:absolute;
+    left: 65%;
+    top: 0%;
+}
+
+#shelf {
+    position:absolute;
+    left: 75%;
+    top: 60%;
+}
+
+#window {
+    position:absolute;
+    left: 85%;
+    top: 58%;
+}
+
+#clouds {
+    position:absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#bye {
+    position:absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#couch {
+    position:absolute;
+    left: 30%;
+    top: 80%;
+}
+
+#tv {
+    position:absolute;
+    left: 70%;
+    top: 30%;
+}
+
+#table {
+    position:absolute;
+    left: 20%;
+    top: 50%;
+}
+
+#food {
+    position:absolute;
+    left: 50%;
+    top: 30%;
+}
+
+#kitchen {
+    position:absolute;
+    left: 50%;
+}
+
+#window1 {
+    position:absolute;
+    top: 58%;
+}
+
+#lamp {
+    position:absolute;
+    left: 10%;
+    top: 30%;
+}
